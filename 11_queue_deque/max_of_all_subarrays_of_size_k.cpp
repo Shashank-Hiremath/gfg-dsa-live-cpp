@@ -1,5 +1,8 @@
 //https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
 
+//Using BST: https://leetcode.com/problems/sliding-window-maximum/solutions/3110955/c-using-maps-only-no-deque-easy-to-understand/
+//Using priority queue: https://leetcode.com/problems/sliding-window-maximum/solutions/458121/java-all-solutions-b-f-pq-deque-dp-with-explanation-and-complexity-analysis/
+
 #include <bits/stdc++.h>
 using namespace std;
 
